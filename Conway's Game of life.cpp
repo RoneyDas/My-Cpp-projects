@@ -124,6 +124,11 @@ void exchange(int a[row][col],int b[row][col])	//does the main calculation for t
 void input()		
 {
 	#ifndef ONLINE_JUDGE
-    freopen("input.txt", "r", stdin);
+    	freopen("input.txt", "r", stdin);
 	#endif
 }
+
+/*
+Rudrashish Das
+9th May 2021
+*/
